@@ -1,4 +1,4 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_forever" id="jc5+|_*I@U0*tKR0[Hua" x="225" y="20"><statement name="HANDLER"><block type="controls_repeat_ext" id="=P1AvL~t~Uy@-59}I6RP"><value name="TIMES"><shadow type="math_whole_number" id="p#=EpuR_gy,TCn;,y`M/"><field name="NUM">3</field></shadow></value><statement name="DO"><block type="device_show_leds" id="3-?s,{Ur?JIu$[+Q.hbk"><field name="LEDS">`
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_forever" id="jc5+|_*I@U0*tKR0[Hua" x="0" y="0"><statement name="HANDLER"><block type="controls_repeat_ext" id="=P1AvL~t~Uy@-59}I6RP"><value name="TIMES"><shadow type="math_whole_number" id="p#=EpuR_gy,TCn;,y`M/"><field name="NUM">3</field></shadow></value><statement name="DO"><block type="device_show_leds" id="3-?s,{Ur?JIu$[+Q.hbk"><field name="LEDS">`
         . . . . . 
         . # . # . 
         . . . . . 
